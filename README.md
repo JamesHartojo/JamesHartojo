@@ -5,9 +5,9 @@
 
 **Let Me Introduce Myself🙌**
 
-- 🔭 I’m currently studying at Dian Nuswantoro University
+- 🔭 I’m a Fresh Graduate from Dian Nuswantoro University as Bachelor's of Informatics Engineering
 
-- 🌱 I’m currently learning about Data Science and Data Analyst
+- 🌱 I have a high ability in Data Science and Data Analyst
   
 - 👯 I’m looking to have a project collaboration about Machine Learning or Deep Learning
   
